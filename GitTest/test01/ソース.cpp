@@ -5,6 +5,7 @@ int main(void)
 	printf("Hello Git World !!\n");
 
 	printf("‚±‚ñ‚É‚¿‚Í");
+
 	printf("‚³‚æ‚È‚ç");
 	printf("‚³‚æ‚È‚ç");
 	printf("‚³‚æ‚È‚ç");
@@ -15,6 +16,12 @@ int main(void)
 	printf("‚³‚æ‚È‚ç");
 	printf("‚³‚æ‚È‚ç");
 	printf("‚³‚æ‚È‚ç");
+
+	printf("‚±‚ñ‚É‚¿‚Í");
+	printf("‚±‚ñ‚É‚¿‚Í");
+	printf("‚±‚ñ‚É‚¿‚Í");
+	printf("‚±‚ñ‚É‚¿‚Í");
+	printf("‚±‚ñ‚É‚¿‚Í");
 
 
 
